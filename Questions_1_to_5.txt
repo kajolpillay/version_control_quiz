@@ -1,5 +1,5 @@
 Q 1. What are Pull Requests used for?
-
+Pull requests are used for making revisions that then the original developer will decided to accept it into the official project.
 
 Q 2. Name 2 other examples of Version Control Systems apart from Git.
 
