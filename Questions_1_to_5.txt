@@ -8,7 +8,7 @@ Q 3. What is a repo and explain the difference between a local and remote one?
 A repo is a location where all the files for a particular project are store. A local repo is the local git repo stored anywhere on your machine. A remote one are versions of your project that is hosted online and other's can collobrate on it.
 
 Q 4. Where would you find a local repo?
-
+Inside your working directory of your local machine
 
 Q 5. Is it normal to delete a branch after it is merged with the master?
 
