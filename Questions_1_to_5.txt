@@ -12,3 +12,4 @@ Inside your working directory of your local machine
 
 Q 5. Is it normal to delete a branch after it is merged with the master?
 
+Yes it is
